@@ -10,7 +10,7 @@ build
 dist
 .idea
 .vscode
-trading.log*
+#trading.log*
 .pytest_cache/
 .coverage
 htmlcov/
