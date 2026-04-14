@@ -35,6 +35,16 @@ Logger (file & console)
 Formatted CLI Output
 ```
 
+## Outputs wrt the current logs
+# Market Order 
+<img width="1912" height="800" alt="image" src="https://github.com/user-attachments/assets/55b132ec-ddbe-4e18-ae02-12232a1e1a91" />
+
+# Limit Order
+<img width="1913" height="717" alt="image" src="https://github.com/user-attachments/assets/160dff26-69e6-4a00-ba12-4262c74ca9f9" />
+
+
+
+
 ## Setup Steps
 
 ### 1. Clone or Download the Repository
